@@ -3,7 +3,7 @@ import Script from "next/script";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Home | Locksmiths & Locks",
+  title: "Home | KEY Experts",
   description: "Commercial, Residential & Automotive Locksmith Services SERVICING THROUGHOUT THE UK",
 };
 

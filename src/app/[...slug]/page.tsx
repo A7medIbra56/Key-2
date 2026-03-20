@@ -111,7 +111,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
                   <div className={`elementor-element elementor-element-${header.logoWidgetId} elementor-widget elementor-widget-image`} data-id={header.logoWidgetId} data-element_type="widget" data-widget_type="image.default">
                     <div className="elementor-widget-container">
                       <Link href="/">
-                        <img fetchPriority="high" decoding="async" width="1043" height="408" alt="Locksmiths & Locks" src="/wp-content/uploads/Locksmiths-locks-logo-FINAL..png" className="attachment-full size-full" />
+                        <img fetchPriority="high" decoding="async" width="1043" height="408" alt="KEY Experts" src="/key-experts.png" className="attachment-full size-full" />
                       </Link>
                     </div>
                   </div>

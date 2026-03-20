@@ -20,7 +20,7 @@ export const ContactUs = () => {
             <div className="elementor-widget-wrap elementor-element-populated">
               <div className="elementor-element elementor-element-22d4c89 elementor-widget elementor-widget-heading" data-id="22d4c89" data-element_type="widget" data-widget_type="heading.default">
                 <div className="elementor-widget-container">
-                  <p className="elementor-heading-title elementor-size-default">call us now on <b>0330 175 5757 </b></p>
+                  <p className="elementor-heading-title elementor-size-default">call us now on <b>0547773330 </b></p>
                 </div>
               </div>
             </div>
@@ -72,7 +72,7 @@ export const ContactUs = () => {
                           <form className="elementor-form" method="post" name="New Form">
                             <input type="hidden" name="post_id" value="50" />
                             <input type="hidden" name="form_id" value="35392ddd" />
-                            <input type="hidden" name="referer_title" value="Contact Us | Locksmiths &amp; Locks" />
+                            <input type="hidden" name="referer_title" value="Contact Us | Key Experts" />
                             <input type="hidden" name="queried_id" value="50" />
                             <div className="elementor-form-fields-wrapper elementor-labels-above" style={{ marginLeft: 'calc(-20px/2)', marginRight: 'calc(-20px/2)', marginBottom: '-20px' }}>
                               <div className="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_2 elementor-col-33" style={{ paddingRight: 'calc(20px/2)', paddingLeft: 'calc(20px/2)', marginBottom: '20px' }}>
@@ -135,14 +135,12 @@ export const ContactUs = () => {
                       <div className="elementor-element elementor-element-38e698c elementor-icon-list--layout-inline elementor-align-center elementor-tablet-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="38e698c" data-element_type="widget" data-widget_type="icon-list.default">
                         <div className="elementor-widget-container">
                           <ul className="elementor-icon-list-items elementor-inline-items" style={{ display: 'flex', justifyContent: 'center' }}>
-                            <li className="elementor-icon-list-item elementor-inline-item">
-                              <Link href="#" style={{ fontFamily: '"Poppins", Sans-serif', fontSize: '24px', fontWeight: 600, lineHeight: '1em', color: '#ffffff', display: 'flex', alignItems: 'center' }}>
+                              <Link href="https://wa.me/971547773330" style={{ fontFamily: '"Poppins", Sans-serif', fontSize: '24px', fontWeight: 600, lineHeight: '1em', color: '#ffffff', display: 'flex', alignItems: 'center' }}>
                                 <span className="elementor-icon-list-icon" style={{ color: '#FCC602', fontSize: '24px', display: 'flex', alignItems: 'center', marginRight: '10px' }}>
                                   <i aria-hidden="true" className="fas fa-phone-alt"></i>
                                 </span>
-                                <span className="elementor-icon-list-text">0330 175 5757</span>
+                                <span className="elementor-icon-list-text">0547773330</span>
                               </Link>
-                            </li>
                           </ul>
                         </div>
                       </div>
@@ -201,7 +199,7 @@ export const ContactUs = () => {
                           <div className="elementor-testimonial">
                             <div className="elementor-testimonial__content">
                               <div className="elementor-testimonial__text">
-                                With over 200 dedicated Locksmiths, Locksmiths &amp; Locks provide a 24/7 UK Service for various sectors including Insurance Companies, Breakdown &amp; Recovery services, Fleet Managers, Property Management, Car Supermarkets, And anyone who requires urgent security assistance 24/7.
+                                With over 200 dedicated Locksmiths, Key Experts provide a 24/7 UK Service for various sectors including Insurance Companies, Breakdown &amp; Recovery services, Fleet Managers, Property Management, Car Supermarkets, And anyone who requires urgent security assistance 24/7.
                               </div>
                             </div>
                             <div className="elementor-testimonial__footer"></div>

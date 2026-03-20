@@ -24,7 +24,7 @@ export const CommercialLocksmith = () => {
             <div className="elementor-widget-wrap elementor-element-populated">
               <div className="elementor-element elementor-element-890572b elementor-widget elementor-widget-heading" data-id="890572b" data-element_type="widget" data-widget_type="heading.default">
                 <div className="elementor-widget-container">
-                  <p className="elementor-heading-title elementor-size-default">Call us now on <b>0330 175 5757 </b></p>
+                  <p className="elementor-heading-title elementor-size-default">Call us now on <b>0547773330 </b></p>
                 </div>
               </div>
             </div>
@@ -94,7 +94,7 @@ export const CommercialLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>Locked Out</span></h3>
-                              <p className="elementor-icon-box-description">Locksmiths &amp; Locks can easily and quickly open all types of locks 24/7 </p>
+                              <p className="elementor-icon-box-description">Key Experts can easily and quickly open all types of locks 24/7 </p>
                             </div>
                           </div>
                         </div>
@@ -111,7 +111,7 @@ export const CommercialLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>Security Locks</span></h3>
-                              <p className="elementor-icon-box-description">Locksmiths &amp; Locks supply and fit a wide range of security locks, including 3* British Standard Diamond rated Anti Snap Cylinders to 5L British Standard Mortice Locks.<br /> Call us now on 0330 175 5757.</p>
+                              <p className="elementor-icon-box-description">Key Experts supply and fit a wide range of security locks, including 3* British Standard Diamond rated Anti Snap Cylinders to 5L British Standard Mortice Locks.<br /> Call us now on 0547773330.</p>
                             </div>
                           </div>
                         </div>
@@ -128,7 +128,7 @@ export const CommercialLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>Lock Changes</span></h3>
-                              <p className="elementor-icon-box-description">Need locks changing, Don&apos;t panic Locksmiths &amp; Locks can attend and change your locks 24/7 anywhere in the UK</p>
+                              <p className="elementor-icon-box-description">Need locks changing, Don&apos;t panic Key Experts can attend and change your locks 24/7 anywhere in the UK</p>
                             </div>
                           </div>
                         </div>
@@ -150,7 +150,7 @@ export const CommercialLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>Aluminum Door Specialist</span></h3>
-                              <p className="elementor-icon-box-description">Locksmiths &amp; Locks stock a wide range of spares for Aluminium doors. We can make your doors secure and also assist with opening and closing issues.</p>
+                              <p className="elementor-icon-box-description">Key Experts stock a wide range of spares for Aluminium doors. We can make your doors secure and also assist with opening and closing issues.</p>
                             </div>
                           </div>
                         </div>
@@ -167,7 +167,7 @@ export const CommercialLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>MasterKeyed Systems</span></h3>
-                              <p className="elementor-icon-box-description">From designing a masterkeyed system to suit your needs, to supplying masterkeyed locks and keys, Locksmiths and Locks are the experts.</p>
+                              <p className="elementor-icon-box-description">From designing a masterkeyed system to suit your needs, to supplying masterkeyed locks and keys, Key Experts are the experts.</p>
                             </div>
                           </div>
                         </div>
@@ -184,7 +184,7 @@ export const CommercialLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>Broken Key</span></h3>
-                              <p className="elementor-icon-box-description">Do you have a damaged or broken key, No problem Locksmiths &amp; Locks can help. We can extract broken keys, and repair or replace the lock where necessary.</p>
+                              <p className="elementor-icon-box-description">Do you have a damaged or broken key, No problem Key Experts can help. We can extract broken keys, and repair or replace the lock where necessary.</p>
                             </div>
                           </div>
                         </div>
@@ -206,7 +206,7 @@ export const CommercialLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>Safes</span></h3>
-                              <p className="elementor-icon-box-description">Locksmiths and Locks, supply, service and open all types of domestic and commercial safes.</p>
+                              <p className="elementor-icon-box-description">Key Experts, supply, service and open all types of domestic and commercial safes.</p>
                             </div>
                           </div>
                         </div>
@@ -223,7 +223,7 @@ export const CommercialLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>Access Control Systems</span></h3>
-                              <p className="elementor-icon-box-description">From mechanical digital locks to networked electronic access control systems, Locksmiths &amp; Locks can supply, install and maintain all types of access control systems.</p>
+                              <p className="elementor-icon-box-description">From mechanical digital locks to networked electronic access control systems, Key Experts can supply, install and maintain all types of access control systems.</p>
                             </div>
                           </div>
                         </div>
@@ -317,7 +317,7 @@ export const CommercialLocksmith = () => {
                       </div>
                       <div className="elementor-element elementor-element-22ac6b5a elementor-widget elementor-widget-text-editor" data-id="22ac6b5a" data-element_type="widget" data-widget_type="text-editor.default">
                         <div className="elementor-widget-container">
-                          <p>Whether you need a new master key suite, or replacement keys or locks, Locksmiths &amp; Locks can assist, one call 24/7 will get you the help you need.</p>
+                          <p>Whether you need a new master key suite, or replacement keys or locks, Key Experts can assist, one call 24/7 will get you the help you need.</p>
                         </div>
                       </div>
                       <div className="elementor-element elementor-element-5cbf7182 elementor-mobile-align-left elementor-align-left elementor-widget elementor-widget-button" data-id="5cbf7182" data-element_type="widget" data-widget_type="button.default">
@@ -560,11 +560,11 @@ export const CommercialLocksmith = () => {
                         <div className="elementor-widget-container">
                           <ul className="elementor-icon-list-items elementor-inline-items">
                             <li className="elementor-icon-list-item elementor-inline-item">
-                              <Link href="#">
+                              <Link href="https://wa.me/971547773330">
                                 <span className="elementor-icon-list-icon">
                                   <i aria-hidden="true" className="fas fa-phone-alt"></i>
                                 </span>
-                                <span className="elementor-icon-list-text">0330 175 5757</span>
+                                <span className="elementor-icon-list-text">0547773330</span>
                               </Link>
                             </li>
                           </ul>

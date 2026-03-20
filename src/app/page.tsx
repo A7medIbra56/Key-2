@@ -19,7 +19,7 @@ export default function Home() {
                 <div className="elementor-widget-wrap elementor-element-populated">
                   <div className="elementor-element elementor-element-4837898f elementor-widget elementor-widget-image" data-id="4837898f" data-element_type="widget" data-widget_type="image.default">
                     <div className="elementor-widget-container">
-                      <img fetchPriority="high" decoding="async" width="1043" height="408" alt="" src="/wp-content/uploads/Locksmiths-locks-logo-FINAL..png" className="attachment-full size-full" />
+                      <img fetchPriority="high" decoding="async" width="1043" height="408" alt="KEY Experts" src="/key-experts.png" className="attachment-full size-full" />
                     </div>
                   </div>
                 </div>
@@ -70,7 +70,7 @@ export default function Home() {
                 <div className="elementor-widget-wrap elementor-element-populated">
                   <div className="elementor-element elementor-element-5a95363a elementor-widget elementor-widget-heading" data-id="5a95363a" data-element_type="widget" data-widget_type="heading.default">
                     <div className="elementor-widget-container">
-                      <p className="elementor-heading-title elementor-size-default">Call us now on <b>0330 175 5757 </b></p>
+                      <p className="elementor-heading-title elementor-size-default">Call us now on <b>0547773330 </b></p>
                     </div>
                   </div>
                 </div>
@@ -303,11 +303,11 @@ export default function Home() {
                             <div className="elementor-widget-container">
                               <ul className="elementor-icon-list-items elementor-inline-items">
                                 <li className="elementor-icon-list-item elementor-inline-item">
-                                  <Link href="tel:03301755757">
+                                  <Link href="https://wa.me/971547773330">
                                     <span className="elementor-icon-list-icon">
                                       <i aria-hidden="true" className="fas fa-phone-alt"></i>
                                     </span>
-                                    <span className="elementor-icon-list-text">0330 175 5757</span>
+                                    <span className="elementor-icon-list-text">0547773330</span>
                                   </Link>
                                 </li>
                               </ul>
@@ -338,7 +338,7 @@ export default function Home() {
                           </div>
                           <div className="elementor-element elementor-element-484692f9 elementor-widget elementor-widget-heading" data-id="484692f9" data-element_type="widget" data-widget_type="heading.default">
                             <div className="elementor-widget-container">
-                              <h2 className="elementor-heading-title elementor-size-default">Locksmith and Locks in numbers</h2>
+                              <h2 className="elementor-heading-title elementor-size-default">Key Experts in numbers</h2>
                             </div>
                           </div>
                         </div>

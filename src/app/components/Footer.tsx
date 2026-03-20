@@ -21,7 +21,7 @@ export default function Footer({ slug }: { slug: string }) {
                       <h3 className="elementor-icon-box-title">
                         <span>Give us a call</span>
                       </h3>
-                      <p className="elementor-icon-box-description">0330 175 5757</p>
+                      <p className="elementor-icon-box-description">0547773330</p>
                     </div>
                   </div>
                 </div>
@@ -34,15 +34,15 @@ export default function Footer({ slug }: { slug: string }) {
                 <div className="elementor-widget-container">
                   <div className="elementor-icon-box-wrapper">
                     <div className="elementor-icon-box-icon">
-                      <a className="elementor-icon elementor-animation-pulse-grow" href="mailto:info@locksmithsandlocks.co.uk">
+                      <a className="elementor-icon elementor-animation-pulse-grow" href="mailto:Keyexperts333@gmail.com">
                         <i aria-hidden="true" className="fas fa-envelope"></i>
                       </a>
                     </div>
                     <div className="elementor-icon-box-content">
                       <h3 className="elementor-icon-box-title">
-                        <a href="mailto:info@locksmithsandlocks.co.uk">Send an email</a>
+                        <a href="mailto:Keyexperts333@gmail.com">Send an email</a>
                       </h3>
-                      <p className="elementor-icon-box-description">info@locksmithsandlocks.co.uk</p>
+                      <p className="elementor-icon-box-description">Keyexperts333@gmail.com</p>
                     </div>
                   </div>
                 </div>
@@ -90,7 +90,7 @@ export default function Footer({ slug }: { slug: string }) {
                     <div className="elementor-widget-wrap elementor-element-populated">
                       <div className="elementor-element elementor-element-3b32e44f elementor-widget elementor-widget-heading" data-id="3b32e44f" data-element_type="widget" data-widget_type="heading.default">
                         <div className="elementor-widget-container">
-                          <p className="elementor-heading-title elementor-size-default">CALL US NOW ON <b>0330 175 5757</b></p>
+                          <p className="elementor-heading-title elementor-size-default">CALL US NOW ON <b>0547773330</b></p>
                         </div>
                       </div>
                     </div>
@@ -103,7 +103,7 @@ export default function Footer({ slug }: { slug: string }) {
                     <div className="elementor-widget-wrap elementor-element-populated">
                       <div className="elementor-element elementor-element-4e791cb elementor-widget elementor-widget-heading" data-id="4e791cb" data-element_type="widget" data-widget_type="heading.default">
                         <div className="elementor-widget-container">
-                          <p className="elementor-heading-title elementor-size-default">© 2021 All rights Reserved. Locksmiths and Locks Ltd.</p>
+                          <p className="elementor-heading-title elementor-size-default">© 2021 All rights Reserved. Key Experts Ltd.</p>
                         </div>
                       </div>
                     </div>

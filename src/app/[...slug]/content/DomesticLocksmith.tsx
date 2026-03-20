@@ -24,7 +24,7 @@ export const DomesticLocksmith = () => {
             <div className="elementor-widget-wrap elementor-element-populated">
               <div className="elementor-element elementor-element-6951383a elementor-widget elementor-widget-heading" data-id="6951383a" data-element_type="widget" data-widget_type="heading.default">
                 <div className="elementor-widget-container">
-                  <p className="elementor-heading-title elementor-size-default">call us now on <b>0330 175 5757 </b></p>
+                  <p className="elementor-heading-title elementor-size-default">call us now on <b>0547773330 </b></p>
                 </div>
               </div>
             </div>
@@ -94,7 +94,7 @@ export const DomesticLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>Locked Out</span></h3>
-                              <p className="elementor-icon-box-description">Locksmiths &amp; Locks can easily and quickly open all types of locks 24/7 </p>
+                              <p className="elementor-icon-box-description">Key Experts can easily and quickly open all types of locks 24/7 </p>
                             </div>
                           </div>
                         </div>
@@ -111,7 +111,7 @@ export const DomesticLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>Security Locks</span></h3>
-                              <p className="elementor-icon-box-description">Locksmiths &amp; Locks supply and fit a wide range of security locks, including 3* British Standard Diamond rated Anti Snap Cylinders to 5L British Standard Mortice Locks.<br />Call us now on: 03330 175 5757</p>
+                              <p className="elementor-icon-box-description">Key Experts supply and fit a wide range of security locks, including 3* British Standard Diamond rated Anti Snap Cylinders to 5L British Standard Mortice Locks.<br />Call us now on: 0547773330</p>
                             </div>
                           </div>
                         </div>
@@ -128,7 +128,7 @@ export const DomesticLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>24/7 Nationwide</span></h3>
-                              <p className="elementor-icon-box-description">With over 200 locksmith we can attend anywhere in the UK, with just one call or email, and centralised billing for easy accounting and MI </p>
+                              <p className="elementor-icon-box-description">With over 200 locksmiths we can attend anywhere in the UK, with just one call or email, and centralised billing for easy accounting and MI </p>
                             </div>
                           </div>
                         </div>
@@ -150,7 +150,7 @@ export const DomesticLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>UPVC Door Specialist</span></h3>
-                              <p className="elementor-icon-box-description">Locksmiths &amp; Locks stock a wide range of spares for UPVC and Patio doors, and our expert locksmiths get your door secure quickly and at the right price</p>
+                              <p className="elementor-icon-box-description">Key Experts stock a wide range of spares for UPVC and Patio doors, and our expert locksmiths get your door secure quickly and at the right price</p>
                             </div>
                           </div>
                         </div>
@@ -167,7 +167,7 @@ export const DomesticLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>Lock Changes</span></h3>
-                              <p className="elementor-icon-box-description">Need locks changing, Don&apos;t panic Locksmiths &amp; Locks can attend and change your locks 24/7 anywhere in the UK</p>
+                              <p className="elementor-icon-box-description">Need locks changing, Don&apos;t panic Key Experts can attend and change your locks 24/7 anywhere in the UK</p>
                             </div>
                           </div>
                         </div>
@@ -184,7 +184,7 @@ export const DomesticLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>Broken Key</span></h3>
-                              <p className="elementor-icon-box-description">Do you have a damaged or broken key, No problem Locksmiths &amp; Locks can help. We can extract broken keys, and repair or replace the lock where necessary</p>
+                              <p className="elementor-icon-box-description">Do you have a damaged or broken key, No problem Key Experts can help. We can extract broken keys, and repair or replace the lock where necessary</p>
                             </div>
                           </div>
                         </div>
@@ -261,7 +261,7 @@ export const DomesticLocksmith = () => {
                       </div>
                       <div className="elementor-element elementor-element-4b089d99 elementor-widget elementor-widget-text-editor" data-id="4b089d99" data-element_type="widget" data-widget_type="text-editor.default">
                         <div className="elementor-widget-container">
-                          <p>Locksmiths &amp; Locks manages you or your customers 24/7 365 anywhere in the UK whether they are locked out, Lost their key, broken their key or had their keys stolen.</p>
+                          <p>Key Experts manages you or your customers 24/7 365 anywhere in the UK whether they are locked out, Lost their key, broken their key or had their keys stolen.</p>
                         </div>
                       </div>
                       <div className="elementor-element elementor-element-3dac860d elementor-mobile-align-left elementor-align-left elementor-widget elementor-widget-button" data-id="3dac860d" data-element_type="widget" data-widget_type="button.default">
@@ -292,7 +292,7 @@ export const DomesticLocksmith = () => {
                       </div>
                       <div className="elementor-element elementor-element-3cf42978 elementor-widget elementor-widget-heading" data-id="3cf42978" data-element_type="widget" data-widget_type="heading.default">
                         <div className="elementor-widget-container">
-                          <h2 className="elementor-heading-title elementor-size-default">Why use Locksmiths &amp; Locks?</h2>
+                          <h2 className="elementor-heading-title elementor-size-default">Why use Key Experts?</h2>
                         </div>
                       </div>
                       <div className="elementor-element elementor-element-4ac588b4 elementor-widget elementor-widget-text-editor" data-id="4ac588b4" data-element_type="widget" data-widget_type="text-editor.default">
@@ -506,11 +506,11 @@ export const DomesticLocksmith = () => {
                         <div className="elementor-widget-container">
                           <ul className="elementor-icon-list-items elementor-inline-items">
                             <li className="elementor-icon-list-item elementor-inline-item">
-                              <Link href="#">
+                              <Link href="https://wa.me/971547773330">
                                 <span className="elementor-icon-list-icon">
                                   <i aria-hidden="true" className="fas fa-phone-alt"></i>
                                 </span>
-                                <span className="elementor-icon-list-text">0330 175 5757</span>
+                                <span className="elementor-icon-list-text">0547773330</span>
                               </Link>
                             </li>
                           </ul>

@@ -89,7 +89,7 @@ export const AutoLocksmith = () => {
                               <h3 className="elementor-icon-box-title">
                                 <span>Van Security Locks</span>
                               </h3>
-                              <p className="elementor-icon-box-description">Theft from commercial vehicles is a huge problem, let us secure your commercial vehicles. Locksmiths & Locks fit replocks, deadlocks, slam locks, Arma-D-Locks and much more. Call us now on 0330 175 5757 and let us protect your vehicle and your tools</p>
+                              <p className="elementor-icon-box-description">Theft from commercial vehicles is a huge problem, let us secure your commercial vehicles. Key Experts fit replocks, deadlocks, slam locks, Arma-D-Locks and much more. Call us now on 0547773330 and let us protect your vehicle and your tools</p>
                             </div>
                           </div>
                         </div>
@@ -110,7 +110,7 @@ export const AutoLocksmith = () => {
                               <h3 className="elementor-icon-box-title">
                                 <span>Lockset Changes</span>
                               </h3>
-                              <p className="elementor-icon-box-description">What would you do if someone stole your vehicle key? Don't panic Locksmiths & Locks can attend roadside and change your locks on your vehicle and in most cases can be done same day or next day.</p>
+                              <p className="elementor-icon-box-description">What would you do if someone stole your vehicle key? Don't panic Key Experts can attend roadside and change your locks on your vehicle and in most cases can be done same day or next day.</p>
                             </div>
                           </div>
                         </div>
@@ -158,7 +158,7 @@ export const AutoLocksmith = () => {
                               <h3 className="elementor-icon-box-title">
                                 <span>OBD Blocker</span>
                               </h3>
-                              <p className="elementor-icon-box-description">Locksmith & Locks, supply and install OBD blockers, which stops the theft of your vehicle with a force start tool or by programming a key as you can no longer access the OBD port. </p>
+                              <p className="elementor-icon-box-description">Key Experts, supply and install OBD blockers, which stops the theft of your vehicle with a force start tool or by programming a key as you can no longer access the OBD port. </p>
                             </div>
                           </div>
                         </div>
@@ -179,7 +179,7 @@ export const AutoLocksmith = () => {
                               <h3 className="elementor-icon-box-title">
                                 <span>Broken Key</span>
                               </h3>
-                              <p className="elementor-icon-box-description">Do you have a damaged or broken key? No problem Locksmith & Locks can help. In most cases we can re-case and repair your broken or damaged key saving your £££'s. We can also remove any broken bits of the key from you locks </p>
+                              <p className="elementor-icon-box-description">Do you have a damaged or broken key? No problem Key Experts can help. In most cases we can re-case and repair your broken or damaged key saving your £££'s. We can also remove any broken bits of the key from you locks </p>
                             </div>
                           </div>
                         </div>
@@ -227,7 +227,7 @@ export const AutoLocksmith = () => {
                               <h3 className="elementor-icon-box-title">
                                 <span>Diagnostic Scans</span>
                               </h3>
-                              <p className="elementor-icon-box-description">Locksmiths & Locks can perform diagnostics scans on your vehicle highlighting any fault codes stored in the vehicles ECU's . you can then use this report to send to a repairer for a quote </p>
+                              <p className="elementor-icon-box-description">Key Experts can perform diagnostics scans on your vehicle highlighting any fault codes stored in the vehicles ECU's . you can then use this report to send to a repairer for a quote </p>
                             </div>
                           </div>
                         </div>
@@ -293,7 +293,7 @@ export const AutoLocksmith = () => {
                       </div>
                       <div className="elementor-element elementor-element-68af67d9 elementor-widget elementor-widget-text-editor" data-id="68af67d9" data-element_type="widget" data-widget_type="text-editor.default">
                         <div className="elementor-widget-container">
-                          <p>Locksmiths & Locks manages you or your customers 24/7 365 anywhere in the UK whether they are locked out, Lost their vehicle key, broken their key or had their vehicle keys stolen.</p>
+                          <p>Key Experts manages you or your customers 24/7 365 anywhere in the UK whether they are locked out, Lost their vehicle key, broken their key or had their vehicle keys stolen.</p>
                         </div>
                       </div>
                       <div className="elementor-element elementor-element-31ac7973 elementor-mobile-align-left elementor-align-left elementor-widget elementor-widget-button" data-id="31ac7973" data-element_type="widget" data-widget_type="button.default">
@@ -324,7 +324,7 @@ export const AutoLocksmith = () => {
                       </div>
                       <div className="elementor-element elementor-element-528295c6 elementor-widget elementor-widget-heading" data-id="528295c6" data-element_type="widget" data-widget_type="heading.default">
                         <div className="elementor-widget-container">
-                          <h2 className="elementor-heading-title elementor-size-default">Why use Locksmiths & Locks?</h2>
+                          <h2 className="elementor-heading-title elementor-size-default">Why use Key Experts?</h2>
                         </div>
                       </div>
                       <div className="elementor-element elementor-element-d20b8cc elementor-widget elementor-widget-text-editor" data-id="d20b8cc" data-element_type="widget" data-widget_type="text-editor.default">
@@ -529,11 +529,11 @@ export const AutoLocksmith = () => {
                         <div className="elementor-widget-container">
                           <ul className="elementor-icon-list-items elementor-inline-items">
                             <li className="elementor-icon-list-item elementor-inline-item">
-                              <Link href="#">
+                              <Link href="https://wa.me/971547773330">
                                 <span className="elementor-icon-list-icon">
                                   <i aria-hidden="true" className="fas fa-phone-alt"></i>
                                 </span>
-                                <span className="elementor-icon-list-text">0330 175 5757</span>
+                                <span className="elementor-icon-list-text">0547773330</span>
                               </Link>
                             </li>
                           </ul>
