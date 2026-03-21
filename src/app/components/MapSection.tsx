@@ -16,7 +16,7 @@ const MapSection = () => {
                     marginWidth={0} 
                     title="Google Map" 
                     aria-label="Google Map" 
-                    src="https://maps.google.com/maps?q=UK&t=m&z=9&output=embed&iwloc=near"
+                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14435.590820067666!2d55.4490816!3d25.3102799!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5fbaf66a90f5%3A0x3620ddd6cdc69c14!2z2K7YqNix2KfYoSDYp9mE2YXZgdin2KrZititINmE2YbYs9iuINin2YTZhdmB2KfYqtmK2itL2LHZiiBFeHBlcnRzIEtleSBDb3B5aW5n!5e0!3m2!1sar!2seg!4v1742601019086!5m2!1sar!2seg"
                     style={{ width: '100%', height: '400px', border: 0 }}
                   ></iframe>
                 </div>

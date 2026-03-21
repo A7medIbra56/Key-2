@@ -21,7 +21,7 @@ export default function Footer({ slug }: { slug: string }) {
                       <h3 className="elementor-icon-box-title">
                         <span>Give us a call</span>
                       </h3>
-                      <p className="elementor-icon-box-description">0547773330</p>
+                      <p className="elementor-icon-box-description"><a href="tel:+971547773330">0547773330</a></p>
                     </div>
                   </div>
                 </div>
@@ -90,7 +90,7 @@ export default function Footer({ slug }: { slug: string }) {
                     <div className="elementor-widget-wrap elementor-element-populated">
                       <div className="elementor-element elementor-element-3b32e44f elementor-widget elementor-widget-heading" data-id="3b32e44f" data-element_type="widget" data-widget_type="heading.default">
                         <div className="elementor-widget-container">
-                          <p className="elementor-heading-title elementor-size-default">CALL US NOW ON <b>0547773330</b></p>
+                          <p className="elementor-heading-title elementor-size-default">CALL US NOW ON <b><a href="tel:+971547773330">0547773330</a></b></p>
                         </div>
                       </div>
                     </div>

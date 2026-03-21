@@ -15,7 +15,7 @@ export const CommercialLocksmith = () => {
             <div className="elementor-widget-wrap elementor-element-populated">
               <div className="elementor-element elementor-element-a3dfb74 elementor-widget elementor-widget-heading" data-id="a3dfb74" data-element_type="widget" data-widget_type="heading.default">
                 <div className="elementor-widget-container">
-                  <p className="elementor-heading-title elementor-size-default">Locksmith Services Covering the whole of the UK</p>
+                  <p className="elementor-heading-title elementor-size-default">Locksmith Services Covering the whole of the UAE</p>
                 </div>
               </div>
             </div>
@@ -24,7 +24,7 @@ export const CommercialLocksmith = () => {
             <div className="elementor-widget-wrap elementor-element-populated">
               <div className="elementor-element elementor-element-890572b elementor-widget elementor-widget-heading" data-id="890572b" data-element_type="widget" data-widget_type="heading.default">
                 <div className="elementor-widget-container">
-                  <p className="elementor-heading-title elementor-size-default">Call us now on <b>0547773330 </b></p>
+                  <p className="elementor-heading-title elementor-size-default">Call us now on <b><a href="tel:+971547773330">0547773330</a></b></p>
                 </div>
               </div>
             </div>
@@ -45,7 +45,7 @@ export const CommercialLocksmith = () => {
               </div>
               <div className="elementor-element elementor-element-f00ba83 elementor-widget elementor-widget-heading" data-id="f00ba83" data-element_type="widget" data-widget_type="heading.default">
                 <div className="elementor-widget-container">
-                  <p className="elementor-heading-title elementor-size-default">24/7 Commercial Locksmith Services covering England, Wales, Scotland and NI </p>
+                  <p className="elementor-heading-title elementor-size-default">24/7 Commercial Locksmith Services covering Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah, and Fujairah </p>
                 </div>
               </div>
             </div>
@@ -111,7 +111,7 @@ export const CommercialLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>Security Locks</span></h3>
-                              <p className="elementor-icon-box-description">Key Experts supply and fit a wide range of security locks, including 3* British Standard Diamond rated Anti Snap Cylinders to 5L British Standard Mortice Locks.<br /> Call us now on 0547773330.</p>
+                              <p className="elementor-icon-box-description">Key Experts supply and fit a wide range of security locks, including 3* British Standard Diamond rated Anti Snap Cylinders to 5L British Standard Mortice Locks.<br /> Call us now on <a href="tel:+971547773330">0547773330</a>.</p>
                             </div>
                           </div>
                         </div>
@@ -128,7 +128,7 @@ export const CommercialLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>Lock Changes</span></h3>
-                              <p className="elementor-icon-box-description">Need locks changing, Don&apos;t panic Key Experts can attend and change your locks 24/7 anywhere in the UK</p>
+                              <p className="elementor-icon-box-description">Need locks changing, Don&apos;t panic Key Experts can attend and change your locks 24/7 anywhere in the UAE</p>
                             </div>
                           </div>
                         </div>
@@ -240,7 +240,7 @@ export const CommercialLocksmith = () => {
                             </div>
                             <div className="elementor-icon-box-content">
                               <h3 className="elementor-icon-box-title"><span>24/7 Nationwide</span></h3>
-                              <p className="elementor-icon-box-description">With over 200 locksmiths we can attend anywhere in the UK, with just one call or email, and centralised billing for easy accounting and MI.</p>
+                              <p className="elementor-icon-box-description">With over 200 locksmiths we can attend anywhere in the UAE, with just one call or email, and centralised billing for easy accounting and MI.</p>
                             </div>
                           </div>
                         </div>
@@ -443,14 +443,14 @@ export const CommercialLocksmith = () => {
         </div>
       </section>
 
-      {/* UK Coverage Section */}
+      {/* UAE Coverage Section */}
       <section className="elementor-section elementor-top-section elementor-element elementor-element-628543ea elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="628543ea" data-element_type="section" data-settings='{"background_background":"classic"}'>
         <div className="elementor-container elementor-column-gap-no">
           <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-415b5016" data-id="415b5016" data-element_type="column">
             <div className="elementor-widget-wrap elementor-element-populated">
               <div className="elementor-element elementor-element-3e11cfd elementor-widget elementor-widget-heading" data-id="3e11cfd" data-element_type="widget" data-widget_type="heading.default">
                 <div className="elementor-widget-container">
-                  <h3 className="elementor-heading-title elementor-size-default">We provide our services through the UK</h3>
+                  <h3 className="elementor-heading-title elementor-size-default">We provide our services through the UAE</h3>
                 </div>
               </div>
               <section className="elementor-section elementor-inner-section elementor-element elementor-element-4d2bffb9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4d2bffb9" data-element_type="section">
@@ -461,7 +461,7 @@ export const CommercialLocksmith = () => {
                         <div className="elementor-widget-container">
                           <ul className="elementor-icon-list-items">
                             <li className="elementor-icon-list-item">
-                              <span className="elementor-icon-list-text">England - Wales - Scotland - Northern Ireland</span>
+                              <span className="elementor-icon-list-text">Abu Dhabi - Dubai - Sharjah - Ajman - Umm Al Quwain - Ras Al Khaimah - Fujairah</span>
                             </li>
                           </ul>
                         </div>
@@ -560,11 +560,11 @@ export const CommercialLocksmith = () => {
                         <div className="elementor-widget-container">
                           <ul className="elementor-icon-list-items elementor-inline-items">
                             <li className="elementor-icon-list-item elementor-inline-item">
-                              <Link href="https://wa.me/971547773330">
+                              <Link href="tel:+971547773330">
                                 <span className="elementor-icon-list-icon">
                                   <i aria-hidden="true" className="fas fa-phone-alt"></i>
                                 </span>
-                                <span className="elementor-icon-list-text">0547773330</span>
+                                 <span className="elementor-icon-list-text">0547773330</span>
                               </Link>
                             </li>
                           </ul>

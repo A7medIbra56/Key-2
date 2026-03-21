@@ -12,8 +12,8 @@ const TrustpilotSection = () => {
               <div className="elementor-element elementor-element-8a373a9 elementor-widget elementor-widget-html" data-id="8a373a9" data-element_type="widget" data-widget_type="html.default">
                 <div className="elementor-widget-container">
                   <Script src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" strategy="lazyOnload" />
-                  <div className="trustpilot-widget" data-locale="en-GB" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="61ea834a3b2fe47d1d21fbef" data-style-height="52px" data-style-width="100%" data-theme="light">
-                    <a href="https://uk.trustpilot.com/review/locksmithsandlocks.co.uk" target="_blank" rel="noopener noreferrer">Trustpilot</a>
+                  <div className="trustpilot-widget" data-locale="en-AE" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="61ea834a3b2fe47d1d21fbef" data-style-height="52px" data-style-width="100%" data-theme="light">
+                    <a href="https://trustpilot.com/review/locksmithsandlocks.ae" target="_blank" rel="noopener noreferrer">Trustpilot</a>
                   </div>
                 </div>
               </div>
@@ -28,8 +28,8 @@ const TrustpilotSection = () => {
             <div className="elementor-widget-wrap elementor-element-populated">
               <div className="elementor-element elementor-element-bf55cec elementor-widget elementor-widget-html" data-id="bf55cec" data-element_type="widget" data-widget_type="html.default">
                 <div className="elementor-widget-container">
-                  <div className="trustpilot-widget" data-locale="en-GB" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="61ea834a3b2fe47d1d21fbef" data-style-height="24px" data-style-width="100%" data-theme="light" data-min-review-count="10">
-                    <a href="https://uk.trustpilot.com/review/locksmithsandlocks.co.uk" target="_blank" rel="noopener noreferrer">Trustpilot</a>
+                  <div className="trustpilot-widget" data-locale="en-AE" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="61ea834a3b2fe47d1d21fbef" data-style-height="24px" data-style-width="100%" data-theme="light" data-min-review-count="10">
+                    <a href="https://trustpilot.com/review/locksmithsandlocks.ae" target="_blank" rel="noopener noreferrer">Trustpilot</a>
                   </div>
                 </div>
               </div>
@@ -56,7 +56,7 @@ const TrustpilotSection = () => {
                           <div className="elementor-testimonial">
                             <div className="elementor-testimonial__content">
                               <div className="elementor-testimonial__text">
-                                With over 200 dedicated Locksmiths, Locksmiths &amp; Locks provide a 24/7 UK Service for various sectors including
+                                With over 200 dedicated Locksmiths, Locksmiths &amp; Locks provide a 24/7 UAE Service for various sectors including
                                 Insurance Companies, Breakdown &amp; Recovery services, Fleet Managers, Property Management, Car Supermarkets,
                                 And anyone who requires urgent security assistance 24/7.
                               </div>

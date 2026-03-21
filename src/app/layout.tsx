@@ -1,10 +1,13 @@
 import type { Metadata } from "next";
 import Script from "next/script";
 import "./globals.css";
+import FloatingWhatsApp from "./components/FloatingWhatsApp";
+import FloatingCall from "./components/FloatingCall";
+import MobileMenuHandler from "./components/MobileMenuHandler";
 
 export const metadata: Metadata = {
   title: "Home | KEY Experts",
-  description: "Commercial, Residential & Automotive Locksmith Services SERVICING THROUGHOUT THE UK",
+  description: "Automotive Locksmith Services SERVICING THROUGHOUT THE UAE",
 };
 
 export default function RootLayout({
@@ -13,7 +16,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en-GB">
+    <html lang="en-AE">
       <head>
         <link rel="stylesheet" id="astra-theme-css-css" href="/wp-content/themes/astra/assets/css/minified/main.min822f.css?ver=3.6.2" media="all" />
         <link rel="stylesheet" id="elementor-icons-css" href="/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min21f9.css?ver=5.11.0" media="all" />
@@ -31,12 +34,16 @@ export default function RootLayout({
         <link rel="stylesheet" id="elementor-icons-shared-0-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min9e0b.css?ver=5.15.1" media="all" />
         <link rel="stylesheet" id="elementor-icons-fa-solid-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min9e0b.css?ver=5.15.1" media="all" />
         <link rel="stylesheet" id="elementor-icons-fa-regular-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min9e0b.css?ver=5.15.1" media="all" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/brands.min.css" />
         <Script id="astra-theme-js-js-extra" strategy="beforeInteractive">
           {`var astra = {"break_point":"921","isRtl":""};`}
         </Script>
       </head>
       <body className="wp-singular page-template page-template-elementor_canvas page wp-theme-astra ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-desktop ast-separate-container ast-right-sidebar astra-3.6.2 ast-normal-title-enabled elementor-default elementor-template-canvas elementor-kit-6 elementor-page">
         {children}
+        <FloatingWhatsApp />
+        <FloatingCall />
+        <MobileMenuHandler />
         <Script src="/wp-content/themes/astra/assets/js/minified/frontend.min822f.js?ver=3.6.2" strategy="lazyOnload" />
         <Script src="/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" strategy="beforeInteractive" />
         <Script src="/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.minf269.js?ver=1.0.1" strategy="lazyOnload" />

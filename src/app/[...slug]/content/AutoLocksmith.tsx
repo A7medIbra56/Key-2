@@ -20,7 +20,7 @@ export const AutoLocksmith = () => {
               </div>
               <div className="elementor-element elementor-element-2b1ed52e elementor-widget elementor-widget-heading" data-id="2b1ed52e" data-element_type="widget" data-widget_type="heading.default">
                 <div className="elementor-widget-container">
-                  <p className="elementor-heading-title elementor-size-default">24/7 Auto Locksmith Services covering England, Wales, Scotland and NI </p>
+                  <p className="elementor-heading-title elementor-size-default">24/7 Auto Locksmith Services covering Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah, and Fujairah </p>
                 </div>
               </div>
             </div>
@@ -89,7 +89,7 @@ export const AutoLocksmith = () => {
                               <h3 className="elementor-icon-box-title">
                                 <span>Van Security Locks</span>
                               </h3>
-                              <p className="elementor-icon-box-description">Theft from commercial vehicles is a huge problem, let us secure your commercial vehicles. Key Experts fit replocks, deadlocks, slam locks, Arma-D-Locks and much more. Call us now on 0547773330 and let us protect your vehicle and your tools</p>
+                              <p className="elementor-icon-box-description">Theft from commercial vehicles is a huge problem, let us secure your commercial vehicles. Key Experts fit replocks, deadlocks, slam locks, Arma-D-Locks and much more. Call us now on <a href="tel:+971547773330">0547773330</a> and let us protect your vehicle and your tools</p>
                             </div>
                           </div>
                         </div>
@@ -248,7 +248,7 @@ export const AutoLocksmith = () => {
                               <h3 className="elementor-icon-box-title">
                                 <span>24/7 Nationwide</span>
                               </h3>
-                              <p className="elementor-icon-box-description">With over 200 locksmith we can attend anywhere in the UK, with just one call or email, and centralised billing for easy accounting and MI </p>
+                              <p className="elementor-icon-box-description">With over 200 locksmith we can attend anywhere in the UAE, with just one call or email, and centralised billing for easy accounting and MI </p>
                             </div>
                           </div>
                         </div>
@@ -293,7 +293,7 @@ export const AutoLocksmith = () => {
                       </div>
                       <div className="elementor-element elementor-element-68af67d9 elementor-widget elementor-widget-text-editor" data-id="68af67d9" data-element_type="widget" data-widget_type="text-editor.default">
                         <div className="elementor-widget-container">
-                          <p>Key Experts manages you or your customers 24/7 365 anywhere in the UK whether they are locked out, Lost their vehicle key, broken their key or had their vehicle keys stolen.</p>
+                          <p>Key Experts manages you or your customers 24/7 365 anywhere in the UAE whether they are locked out, Lost their vehicle key, broken their key or had their vehicle keys stolen.</p>
                         </div>
                       </div>
                       <div className="elementor-element elementor-element-31ac7973 elementor-mobile-align-left elementor-align-left elementor-widget elementor-widget-button" data-id="31ac7973" data-element_type="widget" data-widget_type="button.default">
@@ -427,7 +427,7 @@ export const AutoLocksmith = () => {
             <div className="elementor-widget-wrap elementor-element-populated">
               <div className="elementor-element elementor-element-606a56d elementor-widget elementor-widget-heading" data-id="606a56d" data-element_type="widget" data-widget_type="heading.default">
                 <div className="elementor-widget-container">
-                  <h3 className="elementor-heading-title elementor-size-default">We provide our services through the UK</h3>
+                  <h3 className="elementor-heading-title elementor-size-default">We provide our services through the UAE</h3>
                 </div>
               </div>
               <section className="elementor-section elementor-inner-section elementor-element elementor-element-c0346a4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c0346a4" data-element_type="section">
@@ -438,7 +438,7 @@ export const AutoLocksmith = () => {
                         <div className="elementor-widget-container">
                           <ul className="elementor-icon-list-items">
                             <li className="elementor-icon-list-item">
-                              <span className="elementor-icon-list-text">England - Wales - Scotland - Northern Ireland</span>
+                              <span className="elementor-icon-list-text">Abu Dhabi - Dubai - Sharjah - Ajman - Umm Al Quwain - Ras Al Khaimah - Fujairah</span>
                             </li>
                           </ul>
                         </div>
@@ -529,11 +529,11 @@ export const AutoLocksmith = () => {
                         <div className="elementor-widget-container">
                           <ul className="elementor-icon-list-items elementor-inline-items">
                             <li className="elementor-icon-list-item elementor-inline-item">
-                              <Link href="https://wa.me/971547773330">
+                              <Link href="tel:+971547773330">
                                 <span className="elementor-icon-list-icon">
                                   <i aria-hidden="true" className="fas fa-phone-alt"></i>
                                 </span>
-                                <span className="elementor-icon-list-text">0547773330</span>
+                                 <span className="elementor-icon-list-text">0547773330</span>
                               </Link>
                             </li>
                           </ul>

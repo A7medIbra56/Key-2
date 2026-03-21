@@ -30,7 +30,7 @@ const ServiceFeaturesSection = () => {
                           </div>
                           <div className="elementor-icon-box-content">
                             <h3 className="elementor-icon-box-title"><span>24/7/365 Availability</span></h3>
-                            <p className="elementor-icon-box-description">Call us 24/7 and we will be happy to assist, wherever you are located in the UK for all your locksmiths needs.</p>
+                            <p className="elementor-icon-box-description">Call us 24/7 and we will be happy to assist, wherever you are located in the UAE for all your locksmiths needs.</p>
                           </div>
                         </div>
                       </div>

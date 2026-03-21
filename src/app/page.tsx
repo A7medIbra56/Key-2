@@ -19,7 +19,9 @@ export default function Home() {
                 <div className="elementor-widget-wrap elementor-element-populated">
                   <div className="elementor-element elementor-element-4837898f elementor-widget elementor-widget-image" data-id="4837898f" data-element_type="widget" data-widget_type="image.default">
                     <div className="elementor-widget-container">
-                      <img fetchPriority="high" decoding="async" width="1043" height="408" alt="KEY Experts" src="/key-experts.png" className="attachment-full size-full" />
+                      <Link href="/">
+                        <img fetchPriority="high" decoding="async" width="1043" height="408" alt="KEY Experts" src="/key-experts.png" className="attachment-full size-full" />
+                      </Link>
                     </div>
                   </div>
                 </div>
@@ -47,6 +49,29 @@ export default function Home() {
                           </li>
                         </ul>
                       </nav>
+                      <div className="elementor-menu-toggle" role="button" tabIndex={0} aria-label="Menu Toggle" aria-expanded="false">
+                        <i className="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
+                        <span className="elementor-screen-only">Menu</span>
+                      </div>
+                      <nav className="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+                        <ul id="menu-2-45216507" className="elementor-nav-menu">
+                          <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-43 current_page_item menu-item-103">
+                            <Link href="/" className="elementor-item elementor-item-active menu-link" tabIndex={-1}>Home</Link>
+                          </li>
+                          <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-104">
+                            <Link href="/auto-locksmith-services" className="elementor-item menu-link" tabIndex={-1}>Auto</Link>
+                          </li>
+                          <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-105">
+                            <Link href="/commercial-locksmith-services" className="elementor-item menu-link" tabIndex={-1}>Commercial</Link>
+                          </li>
+                          <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-107">
+                            <Link href="/domestic-locksmith-services" className="elementor-item menu-link" tabIndex={-1}>Domestic</Link>
+                          </li>
+                          <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-106">
+                            <Link href="/contact-us" className="elementor-item menu-link" tabIndex={-1}>Contact Us</Link>
+                          </li>
+                        </ul>
+                      </nav>
                     </div>
                   </div>
                 </div>
@@ -61,7 +86,7 @@ export default function Home() {
                 <div className="elementor-widget-wrap elementor-element-populated">
                   <div className="elementor-element elementor-element-5cee8296 elementor-widget elementor-widget-heading" data-id="5cee8296" data-element_type="widget" data-widget_type="heading.default">
                     <div className="elementor-widget-container">
-                      <p className="elementor-heading-title elementor-size-default">Locksmith Services Covering the whole of the UK</p>
+                      <p className="elementor-heading-title elementor-size-default">Locksmith Services Covering the whole of the UAE</p>
                     </div>
                   </div>
                 </div>
@@ -70,7 +95,7 @@ export default function Home() {
                 <div className="elementor-widget-wrap elementor-element-populated">
                   <div className="elementor-element elementor-element-5a95363a elementor-widget elementor-widget-heading" data-id="5a95363a" data-element_type="widget" data-widget_type="heading.default">
                     <div className="elementor-widget-container">
-                      <p className="elementor-heading-title elementor-size-default">Call us now on <b>0547773330 </b></p>
+                      <p className="elementor-heading-title elementor-size-default">Call us now on <b><a href="tel:+971547773330">0547773330</a></b></p>
                     </div>
                   </div>
                 </div>
@@ -86,12 +111,12 @@ export default function Home() {
                 <div className="elementor-widget-wrap elementor-element-populated">
                   <div className="elementor-element elementor-element-7a1d8e5c elementor-widget elementor-widget-heading" data-id="7a1d8e5c" data-element_type="widget" data-widget_type="heading.default">
                     <div className="elementor-widget-container">
-                      <h1 className="elementor-heading-title elementor-size-default">Commercial, Residential & Automotive Locksmith Services</h1>
+                      <h1 className="elementor-heading-title elementor-size-default">Automotive Locksmith Services</h1>
                     </div>
                   </div>
                   <div className="elementor-element elementor-element-58008156 elementor-widget elementor-widget-heading" data-id="58008156" data-element_type="widget" data-widget_type="heading.default">
                     <div className="elementor-widget-container">
-                      <p className="elementor-heading-title elementor-size-default">SERVICING THROUGHOUT THE UK</p>
+                      <p className="elementor-heading-title elementor-size-default">SERVICING THROUGHOUT THE UAE</p>
                     </div>
                   </div>
                   <div className="elementor-element elementor-element-7c8fff91 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="7c8fff91" data-element_type="widget" data-widget_type="button.default">
@@ -117,7 +142,7 @@ export default function Home() {
                 <div className="elementor-widget-wrap elementor-element-populated">
                   <div className="elementor-element elementor-element-1f4930a4 elementor-widget elementor-widget-heading" data-id="1f4930a4" data-element_type="widget" data-widget_type="heading.default">
                     <div className="elementor-widget-container">
-                      <h2 className="elementor-heading-title elementor-size-default">RESIDENTIAL, COMMERCIAL & AUTOMOTIVE LOCKSMITHS</h2>
+                      <h2 className="elementor-heading-title elementor-size-default">AUTOMOTIVE LOCKSMITHS</h2>
                     </div>
                   </div>
                   <div className="elementor-element elementor-element-4c881a0b elementor-widget elementor-widget-heading" data-id="4c881a0b" data-element_type="widget" data-widget_type="heading.default">
@@ -189,14 +214,14 @@ export default function Home() {
             </div>
           </section>
 
-          {/* UK Coverage Info */}
+          {/* UAE Coverage Info */}
           <section className="elementor-section elementor-top-section elementor-element elementor-element-69bddbd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="69bddbd" data-element_type="section" data-settings='{"background_background":"classic"}'>
             <div className="elementor-container elementor-column-gap-no">
               <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-36748307" data-id="36748307" data-element_type="column">
                 <div className="elementor-widget-wrap elementor-element-populated">
                   <div className="elementor-element elementor-element-1fe183fa elementor-widget elementor-widget-heading" data-id="1fe183fa" data-element_type="widget" data-widget_type="heading.default">
                     <div className="elementor-widget-container">
-                      <h3 className="elementor-heading-title elementor-size-default">We provide our services through the UK</h3>
+                      <h3 className="elementor-heading-title elementor-size-default">We provide our services through the UAE</h3>
                     </div>
                   </div>
                   <section className="elementor-section elementor-inner-section elementor-element elementor-element-368f8fa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="368f8fa" data-element_type="section">
@@ -207,7 +232,7 @@ export default function Home() {
                             <div className="elementor-widget-container">
                               <ul className="elementor-icon-list-items">
                                 <li className="elementor-icon-list-item">
-                                  <span className="elementor-icon-list-text">England - Wales - Scotland - Northern Ireland</span>
+                                  <span className="elementor-icon-list-text">Abu Dhabi - Dubai - Sharjah - Ajman - Umm Al Quwain - Ras Al Khaimah - Fujairah</span>
                                 </li>
                               </ul>
                             </div>
@@ -303,7 +328,7 @@ export default function Home() {
                             <div className="elementor-widget-container">
                               <ul className="elementor-icon-list-items elementor-inline-items">
                                 <li className="elementor-icon-list-item elementor-inline-item">
-                                  <Link href="https://wa.me/971547773330">
+                                  <Link href="tel:+971547773330">
                                     <span className="elementor-icon-list-icon">
                                       <i aria-hidden="true" className="fas fa-phone-alt"></i>
                                     </span>

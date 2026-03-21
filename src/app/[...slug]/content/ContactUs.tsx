@@ -11,7 +11,7 @@ export const ContactUs = () => {
             <div className="elementor-widget-wrap elementor-element-populated">
               <div className="elementor-element elementor-element-c34966c elementor-widget elementor-widget-heading" data-id="c34966c" data-element_type="widget" data-widget_type="heading.default">
                 <div className="elementor-widget-container">
-                  <p className="elementor-heading-title elementor-size-default">Locksmith Services Covering the whole of the UK</p>
+                  <p className="elementor-heading-title elementor-size-default">Locksmith Services Covering the whole of the UAE</p>
                 </div>
               </div>
             </div>
@@ -20,7 +20,7 @@ export const ContactUs = () => {
             <div className="elementor-widget-wrap elementor-element-populated">
               <div className="elementor-element elementor-element-22d4c89 elementor-widget elementor-widget-heading" data-id="22d4c89" data-element_type="widget" data-widget_type="heading.default">
                 <div className="elementor-widget-container">
-                  <p className="elementor-heading-title elementor-size-default">call us now on <b>0547773330 </b></p>
+                  <p className="elementor-heading-title elementor-size-default">call us now on <b><a href="tel:+971547773330">0547773330</a></b></p>
                 </div>
               </div>
             </div>
@@ -135,11 +135,11 @@ export const ContactUs = () => {
                       <div className="elementor-element elementor-element-38e698c elementor-icon-list--layout-inline elementor-align-center elementor-tablet-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="38e698c" data-element_type="widget" data-widget_type="icon-list.default">
                         <div className="elementor-widget-container">
                           <ul className="elementor-icon-list-items elementor-inline-items" style={{ display: 'flex', justifyContent: 'center' }}>
-                              <Link href="https://wa.me/971547773330" style={{ fontFamily: '"Poppins", Sans-serif', fontSize: '24px', fontWeight: 600, lineHeight: '1em', color: '#ffffff', display: 'flex', alignItems: 'center' }}>
+                              <Link href="tel:+971547773330" style={{ fontFamily: '"Poppins", Sans-serif', fontSize: '24px', fontWeight: 600, lineHeight: '1em', color: '#ffffff', display: 'flex', alignItems: 'center' }}>
                                 <span className="elementor-icon-list-icon" style={{ color: '#FCC602', fontSize: '24px', display: 'flex', alignItems: 'center', marginRight: '10px' }}>
                                   <i aria-hidden="true" className="fas fa-phone-alt"></i>
                                 </span>
-                                <span className="elementor-icon-list-text">0547773330</span>
+                                 <span className="elementor-icon-list-text">0547773330</span>
                               </Link>
                           </ul>
                         </div>
@@ -160,7 +160,7 @@ export const ContactUs = () => {
             <div className="elementor-widget-wrap elementor-element-populated">
               <div className="elementor-element elementor-element-151778c elementor-widget elementor-widget-heading" data-id="151778c" data-element_type="widget" data-widget_type="heading.default">
                 <div className="elementor-widget-container">
-                  <h3 className="elementor-heading-title elementor-size-default">We provide our services through the UK</h3>
+                   <h3 className="elementor-heading-title elementor-size-default">We provide our services through the UAE</h3>
                 </div>
               </div>
               <section className="elementor-section elementor-inner-section elementor-element elementor-element-6a5b8ac elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6a5b8ac" data-element_type="section">
@@ -171,7 +171,7 @@ export const ContactUs = () => {
                         <div className="elementor-widget-container">
                           <ul className="elementor-icon-list-items">
                             <li className="elementor-icon-list-item">
-                              <span className="elementor-icon-list-text">England - Wales - Scotland - Northern Ireland</span>
+                               <span className="elementor-icon-list-text">Abu Dhabi - Dubai - Sharjah - Ajman - Umm Al Quwain - Ras Al Khaimah - Fujairah</span>
                             </li>
                           </ul>
                         </div>
@@ -199,7 +199,7 @@ export const ContactUs = () => {
                           <div className="elementor-testimonial">
                             <div className="elementor-testimonial__content">
                               <div className="elementor-testimonial__text">
-                                With over 200 dedicated Locksmiths, Key Experts provide a 24/7 UK Service for various sectors including Insurance Companies, Breakdown &amp; Recovery services, Fleet Managers, Property Management, Car Supermarkets, And anyone who requires urgent security assistance 24/7.
+                                 With over 200 dedicated Locksmiths, Key Experts provide a 24/7 UAE Service for various sectors including Insurance Companies, Breakdown &amp; Recovery services, Fleet Managers, Property Management, Car Supermarkets, And anyone who requires urgent security assistance 24/7.
                               </div>
                             </div>
                             <div className="elementor-testimonial__footer"></div>
