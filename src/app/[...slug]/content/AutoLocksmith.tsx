@@ -1,8 +1,10 @@
 import React from 'react';
 import Link from 'next/link';
 
-import TrustpilotSection from '../../components/TrustpilotSection';
+
 import ServiceFeaturesSection from '../../components/ServiceFeaturesSection';
+import ScrollingGallery from '../../components/ScrollingGallery';
+
 
 
 export const AutoLocksmith = () => {
@@ -20,7 +22,7 @@ export const AutoLocksmith = () => {
               </div>
               <div className="elementor-element elementor-element-2b1ed52e elementor-widget elementor-widget-heading" data-id="2b1ed52e" data-element_type="widget" data-widget_type="heading.default">
                 <div className="elementor-widget-container">
-                  <p className="elementor-heading-title elementor-size-default">24/7 Auto Locksmith Services covering Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah, and Fujairah </p>
+                  <p className="elementor-heading-title elementor-size-default">24/7 Auto Locksmith Services covering Dubai, Sharjah and Ajman </p>
                 </div>
               </div>
             </div>
@@ -46,6 +48,7 @@ export const AutoLocksmith = () => {
           </div>
         </div>
       </section>
+       <ScrollingGallery />
 
       <section className="elementor-section elementor-top-section elementor-element elementor-element-68e6b977 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68e6b977" data-element_type="section">
         <div className="elementor-container elementor-column-gap-no">
@@ -311,6 +314,7 @@ export const AutoLocksmith = () => {
                   </div>
                 </div>
               </section>
+              
 
               {/* Why use Section */}
               <section className="elementor-section elementor-inner-section elementor-element elementor-element-1107a0a6 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1107a0a6" data-element_type="section">
@@ -438,7 +442,7 @@ export const AutoLocksmith = () => {
                         <div className="elementor-widget-container">
                           <ul className="elementor-icon-list-items">
                             <li className="elementor-icon-list-item">
-                              <span className="elementor-icon-list-text">Abu Dhabi - Dubai - Sharjah - Ajman - Umm Al Quwain - Ras Al Khaimah - Fujairah</span>
+                              <span className="elementor-icon-list-text">Dubai - Sharjah - Ajman</span>
                             </li>
                           </ul>
                         </div>
@@ -548,11 +552,14 @@ export const AutoLocksmith = () => {
         </div>
       </section>
 
+     
+
       <ServiceFeaturesSection />
 
 
 
-      <TrustpilotSection />
+
+
     </>
   );
 };

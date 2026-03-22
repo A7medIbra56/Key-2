@@ -171,7 +171,7 @@ export const ContactUs = () => {
                         <div className="elementor-widget-container">
                           <ul className="elementor-icon-list-items">
                             <li className="elementor-icon-list-item">
-                               <span className="elementor-icon-list-text">Abu Dhabi - Dubai - Sharjah - Ajman - Umm Al Quwain - Ras Al Khaimah - Fujairah</span>
+                               <span className="elementor-icon-list-text">Dubai - Sharjah - Ajman</span>
                             </li>
                           </ul>
                         </div>
@@ -185,53 +185,7 @@ export const ContactUs = () => {
         </div>
       </section>
 
-      {/* Testimonials section */}
-      <section className="elementor-section elementor-top-section elementor-element elementor-element-790e2e30 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="790e2e30" data-element_type="section" data-settings='{"background_background":"classic"}'>
-        <div className="elementor-container elementor-column-gap-no">
-          <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-16b2460a" data-id="16b2460a" data-element_type="column" data-settings='{"background_background":"classic"}'>
-            <div className="elementor-widget-wrap elementor-element-populated">
-              <div className="elementor-element elementor-element-46ea5a0c elementor-testimonial--layout-image_above elementor-testimonial--skin-default elementor-testimonial--align-center elementor-arrows-yes elementor-pagination-type-bullets elementor-widget elementor-widget-testimonial-carousel" data-id="46ea5a0c" data-element_type="widget" data-widget_type="testimonial-carousel.default">
-                <div className="elementor-widget-container">
-                  <div className="elementor-swiper">
-                    <div className="elementor-main-swiper swiper-container">
-                      <div className="swiper-wrapper">
-                        <div className="swiper-slide">
-                          <div className="elementor-testimonial">
-                            <div className="elementor-testimonial__content">
-                              <div className="elementor-testimonial__text">
-                                 With over 200 dedicated Locksmiths, Key Experts provide a 24/7 UAE Service for various sectors including Insurance Companies, Breakdown &amp; Recovery services, Fleet Managers, Property Management, Car Supermarkets, And anyone who requires urgent security assistance 24/7.
-                              </div>
-                            </div>
-                            <div className="elementor-testimonial__footer"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="elementor-element elementor-element-646eb293 elementor-widget__width-auto elementor-absolute elementor-view-default elementor-widget elementor-widget-icon" data-id="646eb293" data-element_type="widget" data-settings='{"_position":"absolute"}' data-widget_type="icon.default">
-                <div className="elementor-widget-container">
-                  <div className="elementor-icon-wrapper">
-                    <div className="elementor-icon">
-                      <i aria-hidden="true" className="fas fa-quote-left"></i>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="elementor-element elementor-element-5852fa06 elementor-widget__width-auto elementor-absolute elementor-view-default elementor-widget elementor-widget-icon" data-id="5852fa06" data-element_type="widget" data-settings='{"_position":"absolute"}' data-widget_type="icon.default">
-                <div className="elementor-widget-container">
-                  <div className="elementor-icon-wrapper">
-                    <div className="elementor-icon">
-                      <i aria-hidden="true" className="fas fa-quote-right"></i>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+
     </>
   );
 };

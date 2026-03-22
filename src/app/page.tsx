@@ -1,7 +1,7 @@
 import Link from "next/link";
 import BodyClassSetter from "./components/BodyClassSetter";
 import Script from "next/script";
-import TrustpilotSection from './components/TrustpilotSection';
+import ScrollingGallery from './components/ScrollingGallery';
 import MapSection from './components/MapSection';
 import ServiceFeaturesSection from './components/ServiceFeaturesSection';
 import Footer from './components/Footer';
@@ -232,7 +232,7 @@ export default function Home() {
                             <div className="elementor-widget-container">
                               <ul className="elementor-icon-list-items">
                                 <li className="elementor-icon-list-item">
-                                  <span className="elementor-icon-list-text">Abu Dhabi - Dubai - Sharjah - Ajman - Umm Al Quwain - Ras Al Khaimah - Fujairah</span>
+                                  <span className="elementor-icon-list-text">Dubai - Sharjah - Ajman</span>
                                 </li>
                               </ul>
                             </div>
@@ -246,8 +246,8 @@ export default function Home() {
             </div>
           </section>
 
-          {/* Trustpilot and National Service Section */}
-          <TrustpilotSection />
+          {/* Scrolling Image Gallery Section */}
+          <ScrollingGallery />
 
           {/* Contact Form Section */}
           <section className="elementor-section elementor-top-section elementor-element elementor-element-6630c34a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6630c34a" data-element_type="section" data-settings='{"background_background":"classic"}'>

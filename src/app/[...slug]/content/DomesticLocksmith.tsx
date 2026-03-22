@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 
-import TrustpilotSection from '../../components/TrustpilotSection';
+
 import ServiceFeaturesSection from '../../components/ServiceFeaturesSection';
 
 
@@ -45,7 +45,7 @@ export const DomesticLocksmith = () => {
               </div>
               <div className="elementor-element elementor-element-4d564069 elementor-widget elementor-widget-heading" data-id="4d564069" data-element_type="widget" data-widget_type="heading.default">
                 <div className="elementor-widget-container">
-                  <p className="elementor-heading-title elementor-size-default">24/7 Locksmith Services covering Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah, and Fujairah </p>
+                  <p className="elementor-heading-title elementor-size-default">24/7 Locksmith Services covering Dubai, Sharjah and Ajman </p>
                 </div>
               </div>
             </div>
@@ -407,7 +407,7 @@ export const DomesticLocksmith = () => {
                         <div className="elementor-widget-container">
                           <ul className="elementor-icon-list-items">
                             <li className="elementor-icon-list-item">
-                               <span className="elementor-icon-list-text">Abu Dhabi - Dubai - Sharjah - Ajman - Umm Al Quwain - Ras Al Khaimah - Fujairah</span>
+                               <span className="elementor-icon-list-text">Dubai - Sharjah - Ajman</span>
                             </li>
                           </ul>
                         </div>
@@ -528,7 +528,7 @@ export const DomesticLocksmith = () => {
 
 
       {/* Trustpilot and National Service Section */}
-      <TrustpilotSection />
+
     </>
   );
 };
