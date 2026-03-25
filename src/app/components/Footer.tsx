@@ -77,9 +77,7 @@ export default function Footer({ slug }: { slug: string }) {
                               <li className={`menu-item menu-item-type-post_type menu-item-object-page menu-item-107 ${slug === 'domestic-locksmith-services' ? 'current-menu-item page_item current_page_item' : ''}`}>
                                 <Link href="/domestic-locksmith-services" className={`elementor-item menu-link ${slug === 'domestic-locksmith-services' ? 'elementor-item-active' : ''}`}>Domestic</Link>
                               </li>
-                              <li className={`menu-item menu-item-type-post_type menu-item-object-page menu-item-106 ${slug === 'contact-us' ? 'current-menu-item page_item current_page_item' : ''}`}>
-                                <Link href="/contact-us" className={`elementor-item menu-link ${slug === 'contact-us' ? 'elementor-item-active' : ''}`}>Contact Us</Link>
-                              </li>
+
                             </ul>
                           </nav>
                         </div>

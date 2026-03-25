@@ -1,4 +1,6 @@
-import React from 'react';
+'use client';
+
+import React, { useRef, useState, useEffect } from 'react';
 
 const images = [
   "/sidbar/Picsart_26-03-15_19-25-44-905.jpg.jpeg",
@@ -13,34 +15,181 @@ const images = [
 ];
 
 const ScrollingGallery = () => {
-  // Multiply images to ensure seamless infinite scroll
+  const scrollRef = useRef<HTMLDivElement>(null);
+  const [isHovered, setIsHovered] = useState(false);
+
   const displayImages = [...images, ...images];
 
+  const scrollLeft = () => {
+    if (scrollRef.current) {
+      scrollRef.current.scrollBy({ left: -300, behavior: 'smooth' });
+    }
+  };
+
+  const scrollRight = () => {
+    if (scrollRef.current) {
+      scrollRef.current.scrollBy({ left: 300, behavior: 'smooth' });
+    }
+  };
+
+  useEffect(() => {
+    if (isHovered) return;
+    const interval = setInterval(() => {
+      if (scrollRef.current) {
+        if (scrollRef.current.scrollLeft + scrollRef.current.clientWidth >= scrollRef.current.scrollWidth - 10) {
+          scrollRef.current.scrollLeft = 0;
+        } else {
+          scrollRef.current.scrollBy({ left: 300, behavior: 'smooth' });
+        }
+      }
+    }, 3000);
+    return () => clearInterval(interval);
+  }, [isHovered]);
+
   return (
-    <section className="py-12 bg-white overflow-hidden" style={{ overflow: 'hidden', maxWidth: '100vw' }}>
-      <div className="container mx-auto px-4 mb-8 text-center">
-        <h2 className="text-3xl md:text-4xl font-bold text-gray-800">Our Professional Work</h2>
-        <div className="w-24 h-1 bg-yellow-400 mx-auto mt-4 rounded-full"></div>
+    <section className="gallery-section">
+      <div className="gallery-header">
+        <h2 className="gallery-title">Our Professional Work</h2>
+        <div className="gallery-divider"></div>
       </div>
       
-      <div className="relative flex overflow-x-hidden" style={{ overflow: 'hidden', width: '100%' }}>
-        <div className="animate-marquee whitespace-nowrap flex py-4">
+      <div 
+        className="gallery-container group"
+        onMouseEnter={() => setIsHovered(true)}
+        onMouseLeave={() => setIsHovered(false)}
+      >
+        <button 
+          onClick={scrollLeft}
+          className="gallery-nav-btn gallery-nav-left"
+          aria-label="Scroll left"
+        >
+          <svg width="24" height="24" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+          </svg>
+        </button>
+
+        <div ref={scrollRef} className="gallery-scroll-area">
           {displayImages.map((src, index) => (
-            <div
-              key={index}
-              className="mx-3 flex-shrink-0 rounded-xl overflow-hidden shadow-md border border-gray-100 transition-transform duration-300 hover:scale-105"
-              style={{ width: '260px', height: '320px', minWidth: '260px' }}
-            >
+            <div key={index} className="gallery-item shadow-md">
               <img 
                 src={src} 
                 alt={`Locksmith work ${index + 1}`} 
-                style={{ width: '260px', height: '320px', objectFit: 'cover', display: 'block' }}
+                className="gallery-image"
                 loading="lazy"
               />
             </div>
           ))}
         </div>
+
+        <button 
+          onClick={scrollRight}
+          className="gallery-nav-btn gallery-nav-right"
+          aria-label="Scroll right"
+        >
+          <svg width="24" height="24" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+          </svg>
+        </button>
       </div>
+
+      <style dangerouslySetInnerHTML={{__html: `
+        .gallery-section {
+          padding: 48px 0;
+          background-color: transparent;
+          overflow: hidden;
+          position: relative;
+        }
+        .gallery-header {
+          text-align: center;
+          margin-bottom: 32px;
+          padding: 0 16px;
+        }
+        .gallery-title {
+          font-size: 32px;
+          font-weight: 700;
+          font-family: inherit; /* Should inherit Elementor font */
+          color: #ffffff;
+          margin: 0;
+        }
+        .gallery-divider {
+          width: 96px;
+          height: 4px;
+          background-color: #FBBF24;
+          margin: 16px auto 0;
+          border-radius: 9999px;
+        }
+        .gallery-container {
+          position: relative;
+          max-width: 1200px;
+          margin: 0 auto;
+          padding: 0 16px;
+        }
+        .gallery-scroll-area {
+          display: flex;
+          overflow-x: auto;
+          gap: 24px;
+          padding: 16px 0;
+          scroll-behavior: smooth;
+          scrollbar-width: none;
+          -ms-overflow-style: none;
+        }
+        .gallery-scroll-area::-webkit-scrollbar {
+          display: none;
+        }
+        .gallery-item {
+          flex-shrink: 0;
+          width: 260px;
+          height: 320px;
+          border-radius: 12px;
+          overflow: hidden;
+          border: 1px solid #f3f4f6;
+          transition: transform 0.3s ease;
+          box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+        .gallery-item:hover {
+          transform: scale(1.05);
+        }
+        .gallery-image {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          display: block;
+        }
+        .gallery-nav-btn {
+          position: absolute;
+          top: 50%;
+          transform: translateY(-50%);
+          z-index: 10;
+          background-color: rgba(255, 255, 255, 0.9);
+          border: none;
+          color: #333;
+          padding: 12px;
+          border-radius: 50%;
+          box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+          cursor: pointer;
+          transition: all 0.3s ease;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+        .gallery-nav-btn:hover {
+          background-color: #FBBF24;
+          color: #000;
+        }
+        .gallery-nav-left {
+          left: 8px;
+        }
+        .gallery-nav-right {
+          right: 8px;
+        }
+        @media (min-width: 768px) {
+          .gallery-title { font-size: 36px; }
+          .gallery-nav-btn { opacity: 0; }
+          .gallery-container:hover .gallery-nav-btn { opacity: 1; }
+          .gallery-nav-left { left: -16px; }
+          .gallery-nav-right { right: -16px; }
+        }
+      `}} />
     </section>
   );
 };

@@ -266,13 +266,7 @@ export const CommercialLocksmith = () => {
                       <div className="elementor-background-overlay"></div>
                       <div className="elementor-element elementor-element-7c0617b2 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-id="7c0617b2" data-element_type="widget" data-widget_type="button.default">
                         <div className="elementor-widget-container">
-                          <div className="elementor-button-wrapper">
-                            <Link href="/contact-us" className="elementor-button-link elementor-button elementor-size-lg elementor-animation-pulse-grow" role="button">
-                              <span className="elementor-button-content-wrapper">
-                                <span className="elementor-button-text">CONTACT US</span>
-                              </span>
-                            </Link>
-                          </div>
+                          
                         </div>
                       </div>
                     </div>
@@ -320,17 +314,7 @@ export const CommercialLocksmith = () => {
                           <p>Whether you need a new master key suite, or replacement keys or locks, Key Experts can assist, one call 24/7 will get you the help you need.</p>
                         </div>
                       </div>
-                      <div className="elementor-element elementor-element-5cbf7182 elementor-mobile-align-left elementor-align-left elementor-widget elementor-widget-button" data-id="5cbf7182" data-element_type="widget" data-widget_type="button.default">
-                        <div className="elementor-widget-container">
-                          <div className="elementor-button-wrapper">
-                            <Link href="/contact-us" className="elementor-button-link elementor-button elementor-size-sm elementor-animation-pulse-grow" role="button">
-                              <span className="elementor-button-content-wrapper">
-                                <span className="elementor-button-text">CONTACT US</span>
-                              </span>
-                            </Link>
-                          </div>
-                        </div>
-                      </div>
+
                     </div>
                   </div>
                 </div>
@@ -354,17 +338,7 @@ export const CommercialLocksmith = () => {
                           <p>From broken locks, to new keys we can help, contact us now for more information. Master Keys specialist with full key restriction available in stock.</p>
                         </div>
                       </div>
-                      <div className="elementor-element elementor-element-66554c51 elementor-mobile-align-left elementor-align-left elementor-widget elementor-widget-button" data-id="66554c51" data-element_type="widget" data-widget_type="button.default">
-                        <div className="elementor-widget-container">
-                          <div className="elementor-button-wrapper">
-                            <Link href="/contact-us" className="elementor-button-link elementor-button elementor-size-sm elementor-animation-pulse-grow" role="button">
-                              <span className="elementor-button-content-wrapper">
-                                <span className="elementor-button-text">CONTACT US</span>
-                              </span>
-                            </Link>
-                          </div>
-                        </div>
-                      </div>
+
                     </div>
                   </div>
                   <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1533d4c0" data-id="1533d4c0" data-element_type="column">
@@ -406,7 +380,7 @@ export const CommercialLocksmith = () => {
                         <div className="elementor-widget-container">
                           <Link href="/domestic-locksmith-services" className="elementor-cta">
                             <div className="elementor-cta__bg-wrapper">
-                              <div className="elementor-cta__bg elementor-bg" style={{ backgroundImage: 'url(/wp-content/uploads/2021/06/locksmith-3.jpg)' }}></div>
+                              <div className="elementor-cta__bg elementor-bg" style={{ backgroundImage: 'url(/New/keys-cylinder-vertical-profile-modern-hardware.jpg)' }}></div>
                               <div className="elementor-cta__bg-overlay"></div>
                             </div>
                             <div className="elementor-cta__content">
@@ -475,71 +449,7 @@ export const CommercialLocksmith = () => {
         </div>
       </section>
 
-      {/* Want to know more? Contact Form Section */}
-      <section className="elementor-section elementor-top-section elementor-element elementor-element-4526aee4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4526aee4" data-element_type="section" data-settings='{"background_background":"classic"}'>
-        <div className="elementor-background-overlay"></div>
-        <div className="elementor-container elementor-column-gap-no">
-          <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7f4688fd" data-id="7f4688fd" data-element_type="column">
-            <div className="elementor-widget-wrap elementor-element-populated">
-              <div className="elementor-element elementor-element-6253226e elementor-widget elementor-widget-heading" data-id="6253226e" data-element_type="widget" data-widget_type="heading.default">
-                <div className="elementor-widget-container">
-                  <h2 className="elementor-heading-title elementor-size-default">Want to know more?</h2>
-                </div>
-              </div>
-              <div className="elementor-element elementor-element-424c7cef elementor-widget elementor-widget-heading" data-id="424c7cef" data-element_type="widget" data-widget_type="heading.default">
-                <div className="elementor-widget-container">
-                  <p className="elementor-heading-title elementor-size-default">FOR ANY commercial locksmith Service </p>
-                </div>
-              </div>
-              <section className="elementor-section elementor-inner-section elementor-element elementor-element-4315b59 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4315b59" data-element_type="section" data-settings='{"background_background":"classic"}'>
-                <div className="elementor-container elementor-column-gap-default">
-                  <div className="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-25619ec1" data-id="25619ec1" data-element_type="column">
-                    <div className="elementor-widget-wrap elementor-element-populated">
-                      <div className="elementor-element elementor-element-36de27d5 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="36de27d5" data-element_type="widget" data-settings='{"button_width":"100"}' data-widget_type="form.default">
-                        <div className="elementor-widget-container">
-                          <form className="elementor-form" method="post" name="New Form">
-                            <div className="elementor-form-fields-wrapper elementor-labels-above">
-                              <div className="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_2 elementor-col-33">
-                                <label htmlFor="form-field-field_2" className="elementor-field-label">Full Name</label>
-                                <input size={1} type="text" name="form_fields[field_2]" id="form-field-field_2" className="elementor-field elementor-size-sm  elementor-field-textual" />
-                              </div>
-                              <div className="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_1 elementor-col-33">
-                                <label htmlFor="form-field-field_1" className="elementor-field-label">Phone Number</label>
-                                <input size={1} type="tel" name="form_fields[field_1]" id="form-field-field_1" className="elementor-field elementor-size-sm  elementor-field-textual" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted." />
-                              </div>
-                              <div className="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-33 elementor-field-required">
-                                <label htmlFor="form-field-email" className="elementor-field-label">Email Address</label>
-                                <input size={1} type="email" name="form_fields[email]" id="form-field-email" className="elementor-field elementor-size-sm  elementor-field-textual" required aria-required="true" />
-                              </div>
-                              <div className="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-field_3 elementor-col-100">
-                                <label htmlFor="form-field-field_3" className="elementor-field-label">MESSAGE</label>
-                                <textarea className="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[field_3]" id="form-field-field_3" rows={4}></textarea>
-                              </div>
-                              <div className="elementor-field-type-recaptcha elementor-field-group elementor-column elementor-field-group-field_750a1de elementor-col-100">
-                                <div className="elementor-field" id="form-field-field_750a1de">
-                                  <div className="elementor-g-recaptcha" data-sitekey="6LeovIYpAAAAAANiTfribmNvBGjY_VRFauiQR9aD" data-type="v2_checkbox" data-theme="light" data-size="normal"></div>
-                                </div>
-                              </div>
-                              <div className="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
-                                <button type="submit" className="elementor-button elementor-size-md elementor-animation-pulse-grow">
-                                  <span>
-                                    <span className="elementor-button-icon"></span>
-                                    <span className="elementor-button-text">SUBMIT FORM</span>
-                                  </span>
-                                </button>
-                              </div>
-                            </div>
-                          </form>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </section>
-            </div>
-          </div>
-        </div>
-      </section>
+
 
       {/* Or Call Us On Section */}
       <section className="elementor-section elementor-top-section elementor-element elementor-element-554adc99 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="554adc99" data-element_type="section" data-settings='{"background_background":"classic"}'>

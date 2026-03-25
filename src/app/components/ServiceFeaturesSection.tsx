@@ -24,8 +24,8 @@ const ServiceFeaturesSection = () => {
                       <div className="elementor-widget-container">
                         <div className="elementor-icon-box-wrapper">
                           <div className="elementor-icon-box-icon">
-                            <span className="elementor-icon elementor-animation-">
-                              <i aria-hidden="true" className="far fa-calendar-alt"></i>
+                            <span className="elementor-icon elementor-animation-" style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center', width: '80px', height: '80px', borderRadius: '50%' }}>
+                              <i aria-hidden="true" className="far fa-calendar-alt" style={{ fontSize: '35px' }}></i>
                             </span>
                           </div>
                           <div className="elementor-icon-box-content">
@@ -43,8 +43,8 @@ const ServiceFeaturesSection = () => {
                       <div className="elementor-widget-container">
                         <div className="elementor-icon-box-wrapper">
                           <div className="elementor-icon-box-icon">
-                            <span className="elementor-icon elementor-animation-">
-                              <i aria-hidden="true" className="far fa-gem"></i>
+                            <span className="elementor-icon elementor-animation-" style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center', width: '80px', height: '80px', borderRadius: '50%' }}>
+                              <i aria-hidden="true" className="far fa-gem" style={{ fontSize: '35px' }}></i>
                             </span>
                           </div>
                           <div className="elementor-icon-box-content">
@@ -62,8 +62,8 @@ const ServiceFeaturesSection = () => {
                       <div className="elementor-widget-container">
                         <div className="elementor-icon-box-wrapper">
                           <div className="elementor-icon-box-icon">
-                            <span className="elementor-icon elementor-animation-">
-                              <i aria-hidden="true" className="far fa-clock"></i>
+                            <span className="elementor-icon elementor-animation-" style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center', width: '80px', height: '80px', borderRadius: '50%' }}>
+                              <i aria-hidden="true" className="far fa-clock" style={{ fontSize: '35px' }}></i>
                             </span>
                           </div>
                           <div className="elementor-icon-box-content">

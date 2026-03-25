@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import { AutoLocksmith } from "./content/AutoLocksmith";
 import { CommercialLocksmith } from "./content/CommercialLocksmith";
 import { DomesticLocksmith } from "./content/DomesticLocksmith";
-import { ContactUs } from "./content/ContactUs";
+
 import BodyClassSetter from "../components/BodyClassSetter";
 import MapSection from "../components/MapSection";
 import Footer from "../components/Footer";
@@ -43,14 +43,6 @@ const pageHeaders: Record<string, {
     navWidgetId: 'dc16d6f',
     menuId: 'dc16d6f',
   },
-  'contact-us': {
-    sectionId: 'b312e41',
-    logoColId: 'a061a1d',
-    logoWidgetId: '6d74f6f',
-    navColId: '94a682b',
-    navWidgetId: '29f3b1a',
-    menuId: '29f3b1a',
-  },
 };
 
 export default async function Page({ params }: { params: Promise<{ slug: string[] }> }) {
@@ -79,13 +71,6 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
       css: '/wp-content/uploads/elementor/css/post-84ed22.css',
       id: '84',
       bodyClasses: ['page-template-elementor_canvas', 'elementor-page', 'elementor-page-84']
-    },
-    'contact-us': {
-      title: 'Contact Us',
-      component: <ContactUs />,
-      css: '/wp-content/uploads/elementor/css/post-500684.css',
-      id: '50',
-      bodyClasses: ['page-template-elementor_canvas', 'elementor-page', 'elementor-page-50']
     }
   };
 
@@ -135,9 +120,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
                           <li className={`menu-item menu-item-type-post_type menu-item-object-page menu-item-107 ${slug === 'domestic-locksmith-services' ? 'current-menu-item page_item current_page_item' : ''}`}>
                             <Link href="/domestic-locksmith-services" className={`elementor-item menu-link ${slug === 'domestic-locksmith-services' ? 'elementor-item-active' : ''}`}>Domestic</Link>
                           </li>
-                          <li className={`menu-item menu-item-type-post_type menu-item-object-page menu-item-106 ${slug === 'contact-us' ? 'current-menu-item page_item current_page_item' : ''}`}>
-                            <Link href="/contact-us" className={`elementor-item menu-link ${slug === 'contact-us' ? 'elementor-item-active' : ''}`}>Contact Us</Link>
-                          </li>
+
                         </ul>
                       </nav>
                       <div className="elementor-menu-toggle" role="button" tabIndex={0} aria-label="Menu Toggle" aria-expanded="false">
@@ -158,9 +141,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
                           <li className={`menu-item menu-item-type-post_type menu-item-object-page menu-item-107 ${slug === 'domestic-locksmith-services' ? 'current-menu-item page_item current_page_item' : ''}`}>
                             <Link href="/domestic-locksmith-services" className={`elementor-item menu-link ${slug === 'domestic-locksmith-services' ? 'elementor-item-active' : ''}`} tabIndex={-1}>Domestic</Link>
                           </li>
-                          <li className={`menu-item menu-item-type-post_type menu-item-object-page menu-item-106 ${slug === 'contact-us' ? 'current-menu-item page_item current_page_item' : ''}`}>
-                            <Link href="/contact-us" className={`elementor-item menu-link ${slug === 'contact-us' ? 'elementor-item-active' : ''}`} tabIndex={-1}>Contact Us</Link>
-                          </li>
+
                         </ul>
                       </nav>
                     </div>

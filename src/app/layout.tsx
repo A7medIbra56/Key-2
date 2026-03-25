@@ -16,7 +16,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en-AE">
+    <html lang="en-AE" suppressHydrationWarning>
       <head>
         <link rel="stylesheet" id="astra-theme-css-css" href="/wp-content/themes/astra/assets/css/minified/main.min822f.css?ver=3.6.2" media="all" />
         <link rel="stylesheet" id="elementor-icons-css" href="/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min21f9.css?ver=5.11.0" media="all" />
@@ -39,7 +39,7 @@ export default function RootLayout({
           {`var astra = {"break_point":"921","isRtl":""};`}
         </Script>
       </head>
-      <body className="wp-singular page-template page-template-elementor_canvas page wp-theme-astra ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-desktop ast-separate-container ast-right-sidebar astra-3.6.2 ast-normal-title-enabled elementor-default elementor-template-canvas elementor-kit-6 elementor-page">
+      <body className="wp-singular page-template page-template-elementor_canvas page wp-theme-astra ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-desktop ast-separate-container ast-right-sidebar astra-3.6.2 ast-normal-title-enabled elementor-default elementor-template-canvas elementor-kit-6 elementor-page" suppressHydrationWarning>
         {children}
         <FloatingWhatsApp />
         <FloatingCall />

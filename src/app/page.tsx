@@ -44,9 +44,7 @@ export default function Home() {
                           <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-107">
                             <Link href="/domestic-locksmith-services" className="elementor-item menu-link">Domestic</Link>
                           </li>
-                          <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-106">
-                            <Link href="/contact-us" className="elementor-item menu-link">Contact Us</Link>
-                          </li>
+
                         </ul>
                       </nav>
                       <div className="elementor-menu-toggle" role="button" tabIndex={0} aria-label="Menu Toggle" aria-expanded="false">
@@ -67,9 +65,7 @@ export default function Home() {
                           <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-107">
                             <Link href="/domestic-locksmith-services" className="elementor-item menu-link" tabIndex={-1}>Domestic</Link>
                           </li>
-                          <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-106">
-                            <Link href="/contact-us" className="elementor-item menu-link" tabIndex={-1}>Contact Us</Link>
-                          </li>
+
                         </ul>
                       </nav>
                     </div>
@@ -104,7 +100,7 @@ export default function Home() {
           </section>
 
           {/* Hero Section */}
-          <section className="elementor-section elementor-top-section elementor-element elementor-element-16b121ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="16b121ba" data-element_type="section" data-settings='{"background_background":"classic"}'>
+          <section className="elementor-section elementor-top-section elementor-element elementor-element-16b121ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="16b121ba" data-element_type="section" data-settings='{"background_background":"classic"}' style={{ backgroundImage: 'url(/New/peakpx.jpg)', backgroundSize: 'cover', backgroundPosition: 'center 42%' }}>
             <div className="elementor-background-overlay"></div>
             <div className="elementor-container elementor-column-gap-default">
               <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-57841d0a" data-id="57841d0a" data-element_type="column">
@@ -158,7 +154,7 @@ export default function Home() {
                             <div className="elementor-widget-container">
                               <Link href="/auto-locksmith-services" className="elementor-cta">
                                 <div className="elementor-cta__bg-wrapper">
-                                  <div className="elementor-cta__bg elementor-bg" style={{ backgroundImage: "url(/wp-content/uploads/2021/06/locksmith-4.jpg)" }}></div>
+                                  <div className="elementor-cta__bg elementor-bg" style={{ backgroundImage: "url('/New/Picsart_26-03-15_21-28-58-530.jpg.jpeg')" }}></div>
                                   <div className="elementor-cta__bg-overlay"></div>
                                 </div>
                                 <div className="elementor-cta__content">
@@ -177,7 +173,7 @@ export default function Home() {
                             <div className="elementor-widget-container">
                               <Link href="/domestic-locksmith-services" className="elementor-cta">
                                 <div className="elementor-cta__bg-wrapper">
-                                  <div className="elementor-cta__bg elementor-bg" style={{ backgroundImage: "url(/wp-content/uploads/2021/06/locksmith-3.jpg)" }}></div>
+                                  <div className="elementor-cta__bg elementor-bg" style={{ backgroundImage: "url(/New/keys-cylinder-vertical-profile-modern-hardware.jpg)" }}></div>
                                   <div className="elementor-cta__bg-overlay"></div>
                                 </div>
                                 <div className="elementor-cta__content">
@@ -249,65 +245,7 @@ export default function Home() {
           {/* Scrolling Image Gallery Section */}
           <ScrollingGallery />
 
-          {/* Contact Form Section */}
-          <section className="elementor-section elementor-top-section elementor-element elementor-element-6630c34a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6630c34a" data-element_type="section" data-settings='{"background_background":"classic"}'>
-            <div className="elementor-background-overlay"></div>
-            <div className="elementor-container elementor-column-gap-no">
-              <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-50b83fd0" data-id="50b83fd0" data-element_type="column">
-                <div className="elementor-widget-wrap elementor-element-populated">
-                  <div className="elementor-element elementor-element-11015687 elementor-widget elementor-widget-heading" data-id="11015687" data-element_type="widget" data-widget_type="heading.default">
-                    <div className="elementor-widget-container">
-                      <h2 className="elementor-heading-title elementor-size-default">Want to know more?</h2>
-                    </div>
-                  </div>
-                  <div className="elementor-element elementor-element-37968d32 elementor-widget elementor-widget-heading" data-id="37968d32" data-element_type="widget" data-widget_type="heading.default">
-                    <div className="elementor-widget-container">
-                      <p className="elementor-heading-title elementor-size-default">FOR ANY LOCKSMITH SERVICE YOU NEED</p>
-                    </div>
-                  </div>
-                  <section className="elementor-section elementor-inner-section elementor-element elementor-element-e370a33 animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e370a33" data-element_type="section" data-settings='{"background_background":"classic","animation":"fadeIn"}'>
-                    <div className="elementor-container elementor-column-gap-default">
-                      <div className="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6b1c6843" data-id="6b1c6843" data-element_type="column">
-                        <div className="elementor-widget-wrap elementor-element-populated">
-                          <div className="elementor-element elementor-element-3cb3e427 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="3cb3e427" data-element_type="widget" data-settings='{"step_next_label":"Next","step_previous_label":"Previous","button_width":"100","step_type":"number_text","step_icon_shape":"circle"}' data-widget_type="form.default">
-                            <div className="elementor-widget-container">
-                              <form className="elementor-form" method="post" name="New Form">
-                                <div className="elementor-form-fields-wrapper elementor-labels-above">
-                                  <div className="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_2 elementor-col-100">
-                                    <label htmlFor="form-field-field_2" className="elementor-field-label">Full Name</label>
-                                    <input size={1} type="text" name="form_fields[field_2]" id="form-field-field_2" className="elementor-field elementor-size-sm elementor-field-textual" />
-                                  </div>
-                                  <div className="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_1 elementor-col-100">
-                                    <label htmlFor="form-field-field_1" className="elementor-field-label">Phone Number</label>
-                                    <input size={1} type="tel" name="form_fields[field_1]" id="form-field-field_1" className="elementor-field elementor-size-sm elementor-field-textual" />
-                                  </div>
-                                  <div className="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
-                                    <label htmlFor="form-field-email" className="elementor-field-label">Email Address</label>
-                                    <input size={1} type="email" name="form_fields[email]" id="form-field-email" className="elementor-field elementor-size-sm elementor-field-textual" required aria-required="true" />
-                                  </div>
-                                  <div className="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
-                                    <label htmlFor="form-field-message" className="elementor-field-label">Message</label>
-                                    <textarea className="elementor-field-textual elementor-field elementor-size-sm" name="form_fields[message]" id="form-field-message" rows={3}></textarea>
-                                  </div>
-                                  <div className="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
-                                    <button type="submit" className="elementor-button elementor-size-md elementor-animation-pulse-grow">
-                                      <span>
-                                        <span className="elementor-button-text">SUBMIT FORM</span>
-                                      </span>
-                                    </button>
-                                  </div>
-                                </div>
-                              </form>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </section>
-                </div>
-              </div>
-            </div>
-          </section>
+
 
           {/* Call Box */}
           <section className="elementor-section elementor-top-section elementor-element elementor-element-7dff5b21 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7dff5b21" data-element_type="section" data-settings='{"background_background":"classic"}'>

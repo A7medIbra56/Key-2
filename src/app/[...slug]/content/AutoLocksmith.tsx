@@ -277,7 +277,7 @@ export const AutoLocksmith = () => {
                     <div className="elementor-widget-wrap elementor-element-populated">
                       <div className="elementor-element elementor-element-327afb94 elementor-widget elementor-widget-image" data-id="327afb94" data-element_type="widget" data-widget_type="image.default">
                         <div className="elementor-widget-container">
-                          <img decoding="async" width="637" height="637" src="/wp-content/uploads/Broken-Car-Keys.jpg" className="attachment-large size-large" alt="" />
+                          <img decoding="async" width="637" height="637" src="/New/mpftahh.jpeg" className="attachment-large size-large" alt="" />
                         </div>
                       </div>
                     </div>
@@ -299,17 +299,7 @@ export const AutoLocksmith = () => {
                           <p>Key Experts manages you or your customers 24/7 365 anywhere in the UAE whether they are locked out, Lost their vehicle key, broken their key or had their vehicle keys stolen.</p>
                         </div>
                       </div>
-                      <div className="elementor-element elementor-element-31ac7973 elementor-mobile-align-left elementor-align-left elementor-widget elementor-widget-button" data-id="31ac7973" data-element_type="widget" data-widget_type="button.default">
-                        <div className="elementor-widget-container">
-                          <div className="elementor-button-wrapper">
-                            <Link href="/contact-us" className="elementor-button-link elementor-button elementor-size-sm elementor-animation-pulse-grow" role="button">
-                              <span className="elementor-button-content-wrapper">
-                                <span className="elementor-button-text">CONTACT US</span>
-                              </span>
-                            </Link>
-                          </div>
-                        </div>
-                      </div>
+
                     </div>
                   </div>
                 </div>
@@ -336,24 +326,14 @@ export const AutoLocksmith = () => {
                           <p>Our experienced and professional team of over 200 locksmiths carry out over 10,000 call outs a year, we are well versed in providing auto locksmiths services for all types of vehicles, from classic cars to the latest 2021 models, and do not forget we cover van trucks, and HGV’s.</p>
                         </div>
                       </div>
-                      <div className="elementor-element elementor-element-56efe13a elementor-mobile-align-left elementor-align-left elementor-widget elementor-widget-button" data-id="56efe13a" data-element_type="widget" data-widget_type="button.default">
-                        <div className="elementor-widget-container">
-                          <div className="elementor-button-wrapper">
-                            <Link href="/contact-us" className="elementor-button-link elementor-button elementor-size-sm elementor-animation-pulse-grow" role="button">
-                              <span className="elementor-button-content-wrapper">
-                                <span className="elementor-button-text">CONTACT US</span>
-                              </span>
-                            </Link>
-                          </div>
-                        </div>
-                      </div>
+
                     </div>
                   </div>
                   <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-661fbd82" data-id="661fbd82" data-element_type="column">
                     <div className="elementor-widget-wrap elementor-element-populated">
                       <div className="elementor-element elementor-element-68390fd elementor-widget elementor-widget-image" data-id="68390fd" data-element_type="widget" data-widget_type="image.default">
                         <div className="elementor-widget-container">
-                          <img decoding="async" width="800" height="800" src="/wp-content/uploads/Ford-Transit-Van-Ford-Transit-Custom-Ignition-Fault-Replacment-Locks.jpg" className="attachment-large size-large" alt="" />
+                          <img decoding="async" width="800" height="800" src="/New/shannn.jpeg" className="attachment-large size-large" alt="" />
                         </div>
                       </div>
                     </div>
@@ -388,7 +368,7 @@ export const AutoLocksmith = () => {
                         <div className="elementor-widget-container">
                           <Link href="/domestic-locksmith-services" className="elementor-cta">
                             <div className="elementor-cta__bg-wrapper">
-                              <div className="elementor-cta__bg elementor-bg" style={{ backgroundImage: 'url(/wp-content/uploads/2021/06/locksmith-3.jpg)' }}></div>
+                              <div className="elementor-cta__bg elementor-bg" style={{ backgroundImage: 'url(/New/keys-cylinder-vertical-profile-modern-hardware.jpg)' }}></div>
                               <div className="elementor-cta__bg-overlay"></div>
                             </div>
                             <div className="elementor-cta__content">
@@ -456,64 +436,7 @@ export const AutoLocksmith = () => {
         </div>
       </section>
 
-      <section className="elementor-section elementor-top-section elementor-element elementor-element-6c109e8c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6c109e8c" data-element_type="section" data-settings='{"background_background":"classic"}'>
-        <div className="elementor-background-overlay"></div>
-        <div className="elementor-container elementor-column-gap-no">
-          <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5b325924" data-id="5b325924" data-element_type="column">
-            <div className="elementor-widget-wrap elementor-element-populated">
-              <div className="elementor-element elementor-element-6890ca73 elementor-widget elementor-widget-heading" data-id="6890ca73" data-element_type="widget" data-widget_type="heading.default">
-                <div className="elementor-widget-container">
-                  <h2 className="elementor-heading-title elementor-size-default">Want to know more?</h2>
-                </div>
-              </div>
-              <div className="elementor-element elementor-element-43246153 elementor-widget elementor-widget-heading" data-id="43246153" data-element_type="widget" data-widget_type="heading.default">
-                <div className="elementor-widget-container">
-                  <p className="elementor-heading-title elementor-size-default">FOR ANY Autolocksmith Service </p>
-                </div>
-              </div>
-              <section className="elementor-section elementor-inner-section elementor-element elementor-element-72955cb2 animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="72955cb2" data-element_type="section" data-settings='{"background_background":"classic"}'>
-                <div className="elementor-container elementor-column-gap-default">
-                  <div className="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-53b17a96" data-id="53b17a96" data-element_type="column">
-                    <div className="elementor-widget-wrap elementor-element-populated">
-                      <div className="elementor-element elementor-element-40291b46 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="40291b46" data-element_type="widget">
-                        <div className="elementor-widget-container">
-                          <form className="elementor-form" method="post" name="New Form">
-                            <div className="elementor-form-fields-wrapper elementor-labels-above">
-                              <div className="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_2 elementor-col-33">
-                                <label htmlFor="form-field-field_2" className="elementor-field-label">Full Name</label>
-                                <input size={1} type="text" name="form_fields[field_2]" id="form-field-field_2" className="elementor-field elementor-size-sm elementor-field-textual" />
-                              </div>
-                              <div className="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_1 elementor-col-33">
-                                <label htmlFor="form-field-field_1" className="elementor-field-label">Phone Number</label>
-                                <input size={1} type="tel" name="form_fields[field_1]" id="form-field-field_1" className="elementor-field elementor-size-sm elementor-field-textual" pattern="[0-9()#&+-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted." />
-                              </div>
-                              <div className="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-33 elementor-field-required">
-                                <label htmlFor="form-field-email" className="elementor-field-label">Email Address</label>
-                                <input size={1} type="email" name="form_fields[email]" id="form-field-email" className="elementor-field elementor-size-sm elementor-field-textual" required aria-required="true" />
-                              </div>
-                              <div className="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-field_3 elementor-col-100">
-                                <label htmlFor="form-field-field_3" className="elementor-field-label">MESSAGE</label>
-                                <textarea className="elementor-field-textual elementor-field elementor-size-sm" name="form_fields[field_3]" id="form-field-field_3" rows={4}></textarea>
-                              </div>
-                              <div className="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
-                                <button type="submit" className="elementor-button elementor-size-md elementor-animation-pulse-grow">
-                                  <span>
-                                    <span className="elementor-button-text">SUBMIT FORM</span>
-                                  </span>
-                                </button>
-                              </div>
-                            </div>
-                          </form>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </section>
-            </div>
-          </div>
-        </div>
-      </section>
+
 
       <section className="elementor-section elementor-top-section elementor-element elementor-element-6aefa009 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6aefa009" data-element_type="section" data-settings='{"background_background":"classic"}'>
         <div className="elementor-background-overlay"></div>
